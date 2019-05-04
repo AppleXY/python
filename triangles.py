@@ -1,3 +1,4 @@
+#杨辉三角问题
 def triangles():
     l=[1]
     while True:
